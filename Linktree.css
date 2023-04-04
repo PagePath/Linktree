@@ -7,7 +7,7 @@ margin: 0;
 padding: 0;
 }
 body:hover {
-background-color: black;
+background-color: none;
 transition: background-color 2s ease;
 }
 
